@@ -15,3 +15,4 @@ L'utilisateur devrait être capable de :
 ### Comportement attendu
 
 - Le texte pour la période précédente devrait changer en fonction de la timeframe. "Hier" pour journalier (ex : `Hier - 2h`), "La semaine passée" pour hebdomadaire, "Le mois passé" pour mensuel.
+# exo_dashborad_react
